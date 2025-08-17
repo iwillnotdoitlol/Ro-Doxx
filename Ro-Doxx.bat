@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >nul
-title ASCII Art
+title Ro-Doxx // Latest Edition
 
 :: Show ASCII art and menu once at the top
 echo                                   ▄▄▄        ·▄▄▄▄        ▐▄• ▄ ▐▄• ▄
